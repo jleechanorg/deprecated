@@ -1,5 +1,7 @@
 # Nextsteps — NPC and scene generation — 2026-11-18
 
+Canonical copy: https://github.com/jleechanorg/roadmap/blob/main/nextsteps-npc-scene-generation-2026-11-18.md
+
 ## Table of contents
 
 - [Executive summary](#executive-summary)
